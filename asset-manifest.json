@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/image-gallery/static/css/main.4877db59.css",
+    "main.js": "/image-gallery/static/js/main.60fde188.js",
+    "static/media/bird-logo.png": "/image-gallery/static/media/bird-logo.9315c72ec87e25d76e98.png",
+    "index.html": "/image-gallery/index.html",
+    "main.4877db59.css.map": "/image-gallery/static/css/main.4877db59.css.map",
+    "main.60fde188.js.map": "/image-gallery/static/js/main.60fde188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4877db59.css",
+    "static/js/main.60fde188.js"
+  ]
+}
